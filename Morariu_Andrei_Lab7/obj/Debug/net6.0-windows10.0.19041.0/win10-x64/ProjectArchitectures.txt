@@ -1,1 +1,1 @@
-C:\Users\andre\Desktop\Morariu_Andrei_Lab7\Morariu_Andrei_Lab7\Morariu_Andrei_Lab7.csproj;x64
+C:\Users\andre\Source\Repos\AndreiMorariu\Morariu_Andrei_Lab7\Morariu_Andrei_Lab7\Morariu_Andrei_Lab7.csproj;x64
